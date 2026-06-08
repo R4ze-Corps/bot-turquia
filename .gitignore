@@ -1,0 +1,24 @@
+# Folders
+/dist
+/discloud
+/deprecated
+/node_modules
+
+# Files
+/.env
+/.env.dev
+/.env.development
+
+# Config files
+/firebase.json
+
+# Runtime data
+/data
+
+# Extensions
+*.zip
+*.sqlite
+*.sql
+*.exe
+*.db
+*.development.json

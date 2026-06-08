@@ -1,0 +1,26 @@
+{
+  "Ações de Pequeno Porte": [
+    { "local": "Ammunation", "bandidos": "Mínimo 2 (Máximo 3)", "armamento": "Pistola" },
+    { "local": "Loja de Bebidas", "bandidos": "Obrigatório 3", "armamento": "Pistola" },
+    { "local": "Loja de Departamento", "bandidos": "Mínimo 3 máximo 5", "armamento": "Pistola" },
+    { "local": "Mergulhador", "bandidos": "Obrigatório 6", "armamento": "Pistola" },
+    { "local": "Aeroporto Abandonado", "bandidos": "Obrigatório 6", "armamento": "Pistola" },
+    { "local": "Comedy Club", "bandidos": "Obrigatório 5", "armamento": "Pistola" },
+    { "local": "Atom Food", "bandidos": "Obrigatório 3", "armamento": "Pistola" },
+    { "local": "Yellow Jack", "bandidos": "Mínimo 4 máximo 5", "armamento": "Pistola" }
+  ],
+  "Ações de Médio Porte": [
+    { "local": "Estacionamento Marrom", "bandidos": "Mínimo 6 (Máximo 8)", "armamento": "Submetralhadora" },
+    { "local": "Pink Hotel", "bandidos": "Máximo 7 (Mínimo 5)", "armamento": "Submetralhadora" },
+    { "local": "Bancos Fleeca", "bandidos": "Mínimo 6 / Máximo 8", "armamento": "Submetralhadora" },
+    { "local": "Açougue", "bandidos": "Obrigatório 7", "armamento": "Submetralhadora" },
+    { "local": "Life Invader (FUGA)", "bandidos": "Obrigatório 3 veículos (6 bandidos)", "armamento": "Pistola" },
+    { "local": "Joalheria", "bandidos": "Obrigatório 7", "armamento": "Submetralhadora" },
+    { "local": "Galinheiro", "bandidos": "Obrigatório 7", "armamento": "Submetralhadora" }
+  ],
+  "Ações de Grande Porte": [
+    { "local": "Banco Paleto", "bandidos": "Obrigatório 10", "armamento": "Fuzil" },
+    { "local": "Banco Central", "bandidos": "Obrigatório 10", "armamento": "Fuzil" },
+    { "local": "Nióbio - Laboratório Humane", "bandidos": "Obrigatório 14", "armamento": "Fuzil" }
+  ]
+}
