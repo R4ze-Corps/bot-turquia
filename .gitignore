@@ -6,6 +6,7 @@
 
 # Files
 /.env
+/.env copy
 /.env.dev
 /.env.development
 
